@@ -6,7 +6,7 @@
 widget: hero  # See https://wowchemy.com/docs/page-builder/
 headless: true  # This file represents a page section.
 weight: 10  # Order that this section will appear.
-title: "Wowchemy Research Group"
+title: "ALIS-kontoret"
 subtitle: ""
 hero_media: welcome.jpg
 design:
@@ -17,4 +17,11 @@ advanced:
   css_class:
 ---
 
-The Wowchemy Research Group has been a center of excellence for Artificial Intelligence research, teaching, and practice since its founding in 2016.
+ALIS-kontorene er et statsstøttet prosjekt som tilrettelegger for utdanningsstillinger i allmennmedisin i hele landet. 
+
+Det finnes 5 kontor og de har følgende plassering: 
+- Kristiansand (ALIS-kontor Sør)
+- Bergen (ALIS-kontor Vest)
+- Hamar (ALIS-kontor Øst)
+- Trondheim (ALIS-kontor Midt)
+- Bodø (ALIS-kontor Nord)
