@@ -9,26 +9,26 @@
 #  weight = 10
 
 [[main]]
-  name = "News"
+  name = "Nyheter"
   url = "post"
   weight = 20
 
 [[main]]
-  name = "People"
+  name = "Ansatte"
   url = "people"
   weight = 30
 
 [[main]]
-  name = "Events"
+  name = "Arrangementer"
   url = "event"
   weight = 40
 
 [[main]]
-  name = "Publications"
+  name = "Publikajsoner og rapporter"
   url = "publication"
   weight = 50
 
 [[main]]
-  name = "Contact"
+  name = "Kontakt oss"
   url = "contact"
   weight = 60
