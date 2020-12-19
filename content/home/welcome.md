@@ -20,8 +20,8 @@ advanced:
 ALIS-kontorene er et statsstøttet prosjekt som tilrettelegger for utdanningsstillinger i allmennmedisin i hele landet. 
 
 Det finnes 5 kontor og de har følgende plassering: 
-- Kristiansand (ALIS-kontor Sør)
-- Bergen (ALIS-kontor Vest)
-- Hamar (ALIS-kontor Øst)
-- Trondheim (ALIS-kontor Midt)
-- Bodø (ALIS-kontor Nord)
+- **Kristiansand** (ALIS-kontor Sør)
+- **Bergen** (ALIS-kontor Vest)
+- **Hamar** (ALIS-kontor Øst)
+- **Trondheim** (ALIS-kontor Midt)
+- **Bodø** (ALIS-kontor Nord)
