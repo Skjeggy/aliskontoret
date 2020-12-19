@@ -9,6 +9,10 @@
 #  weight = 10
 
 [[main]]
+  name = "ALIS-boka"
+  url = "https://alisboka.netlify.app/"
+
+[[main]]
   name = "Nyheter"
   url = "post"
   weight = 20
