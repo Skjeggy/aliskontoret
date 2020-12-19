@@ -11,9 +11,6 @@ fields:
 - type: datetime
   name: date
   label: date
-- type: text
-  name: doi
-  label: doi
 - type: datetime
   name: publishDate
   label: publishDate
