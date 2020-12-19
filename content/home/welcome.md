@@ -24,4 +24,4 @@ Det finnes 5 kontor og de har følgende plassering:
 - **Bergen** (ALIS-kontor Vest)
 - **Hamar** (ALIS-kontor Øst)
 - **Trondheim** (ALIS-kontor Midt)
-- **Bodø** (ALIS-kontor Nord)
+- **Bodø** (ALIS-kontor Nord)'
