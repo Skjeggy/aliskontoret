@@ -24,8 +24,8 @@ fields:
   name: publication_short
   label: publication_short
 - type: textarea
-  name: abstract
-  label: abstract
+  name: sammendrag
+  label: Sammendrag
 - type: textarea
   name: summary
   label: summary
