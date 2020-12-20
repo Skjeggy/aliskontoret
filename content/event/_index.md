@@ -1,17 +1,9 @@
 ---
-title: Recent & Upcoming Events
-
-# This is the event/talk archive page.
+title: Nylige og kommende arrangementer
 layout: talk
-
-# View.
-#   1 = List
-#   2 = Compact
-#   3 = Card
-view: 2
-
-# Optional header image (relative to `static/media/` folder).
+view: "2"
 header:
-  caption: ""
-  image: ""
+  caption: ''
+  image: ''
+
 ---
