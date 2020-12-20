@@ -88,3 +88,5 @@ fields:
 - type: text
   name: slides
   label: slides
+pages:
+- content/publication/ny-turnustjeneste-for-leger-en-studie-om-implementering-og-samstyring.md
