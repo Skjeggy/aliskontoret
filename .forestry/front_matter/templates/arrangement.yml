@@ -9,14 +9,14 @@ fields:
   name: type
   label: type
 - type: text
-  name: event
-  label: event
+  name: Arrangement
+  label: Arrangement
 - type: text
   name: event_url
   label: event_url
 - type: text
-  name: location
-  label: location
+  name: Sted
+  label: Sted
 - type: field_group
   name: address
   label: address
@@ -39,12 +39,13 @@ fields:
 - type: text
   name: summary
   label: summary
+  description: Det som vises på "thumbnail"
 - type: textarea
-  name: abstract
-  label: abstract
+  name: sammendrag
+  label: sammendrag
 - type: datetime
-  name: date
-  label: date
+  name: dato
+  label: dato
 - type: datetime
   name: date_end
   label: date_end
