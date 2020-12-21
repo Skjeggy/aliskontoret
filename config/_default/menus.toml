@@ -29,7 +29,7 @@
   weight = 40
 
 [[main]]
-  name = "Publikajsoner og rapporter"
+  name = "Publikasjoner og rapporter"
   url = "publication"
   weight = 50
 
