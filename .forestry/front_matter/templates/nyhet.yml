@@ -11,24 +11,6 @@ fields:
 - type: datetime
   name: date
   label: date
-- type: text
-  name: doi
-  label: doi
-- type: datetime
-  name: publishDate
-  label: publishDate
-- type: list
-  name: publication_types
-  label: publication_types
-- type: text
-  name: publication
-  label: publication
-- type: text
-  name: publication_short
-  label: publication_short
-- type: textarea
-  name: abstract
-  label: abstract
 - type: textarea
   name: summary
   label: summary
