@@ -36,7 +36,7 @@ url_pdf: https://www.regjeringen.no/contentassets/96f6581333ee48559cdabf23c87722
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
   caption: ""
-  focal_point: "smart"
+  focal_point: ""
   preview_only: false
 
 # Associated Projects (optional).
