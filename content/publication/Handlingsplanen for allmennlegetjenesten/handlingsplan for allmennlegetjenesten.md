@@ -1,5 +1,5 @@
 ---
-title: "Handlingsplan for allmennlegetjenesten - Handlingsplan for allmennlegetjenesten - Attraktiv, kvalitetssikker og teambasert - 2020–2024"
+title: "Handlingsplan for allmennlegetjenesten - Attraktiv, kvalitetssikker og teambasert - 2020–2024"
 authors:
 - Helse- og omsorgsdepartementet
 date: "2020-05-11T00:00:00Z"
