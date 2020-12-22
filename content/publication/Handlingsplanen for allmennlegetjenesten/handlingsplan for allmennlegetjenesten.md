@@ -35,8 +35,8 @@ url_pdf: https://www.regjeringen.no/contentassets/96f6581333ee48559cdabf23c87722
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: 'Image credit: [**Unsplash**](https://www.alis-nord.no/getfile.php/131056-1589277267/Bilder/Artikkelbilder/Handlingsplan%20for%20allmennlegetjenesten%202020-2024.png%20%28mobile480%29.png)'
-  focal_point: ""
+  caption: ""
+  focal_point: "smart"
   preview_only: false
 
 # Associated Projects (optional).
