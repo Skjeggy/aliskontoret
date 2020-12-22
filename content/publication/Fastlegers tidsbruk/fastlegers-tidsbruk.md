@@ -33,11 +33,7 @@ links:
 - name: Kildesiden
   url: https://www.alis-nord.no/rapporter/fastlegers-tidsbruk-article221-817.html
 url_pdf: https://www.alis-nord.no/getfile.php/13644-1552992919/Dokumenter/Rapporter/Fastlegers%20tidsbruk.pdf
-url_poster: = ""
-url_project: = ""
-url_slides: = ""
-url_source: = ""
-url_video: = ""
+
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
