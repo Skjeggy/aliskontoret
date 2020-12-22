@@ -18,7 +18,7 @@ publication_types: ["4"]
 publication: Handlingsplan for allmennlegetjenesten - Attraktiv, kvalitetssikker og teambasert - 2020–2024 
 publication_short: 
 
-sammendrag: Handlingsplanen skal bidra til å styrke, utvikle og bevare en fastlegeordning som gir pasientene allmennlegetjenester av høy kvalitet. Planen inneholder 17 tiltak.
+abstract: Handlingsplanen skal bidra til å styrke, utvikle og bevare en fastlegeordning som gir pasientene allmennlegetjenester av høy kvalitet. Planen inneholder 17 tiltak.
 
 # Summary. An optional shortened abstract.
 summary: Handlingsplanen skal bidra til å styrke, utvikle og bevare en fastlegeordning som gir pasientene allmennlegetjenester av høy kvalitet. Planen inneholder 17 tiltak.
