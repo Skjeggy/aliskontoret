@@ -63,19 +63,14 @@ Regjeringens handlingsplan er en forpliktende opptrappingsplan for perioden 2020
 Det er satt av 1,6 mrd friske midler til årene 2021-2024. I tillegg bevilges 266 mill gjennom revidert nasjonalbudsjett i 2020. De første tiltakene blir iverksatt fra 1. mai 2020. Det er ikke ubetydelige beløp, men vil ikke være nok til å nå de målene en har satt seg. Til det vil det være behov for en ytterligere økonomisk satsning.  
 
 I første omgang innføres det et grunntilskudd slik at lister med under 500 pasienter får basistilskudd tilsvarende 500 pasienter i inntil to år forutsatt at listetaket er satt over 500. 
- 
-Vi har i planen fått gjennomslag for hovedtrekkene i vår politikk i forhold til finansieringsmodell og tiltak. 
 
 Det innføres knekkpunkt på 1000 pasienter og basistilskuddet under knekkpunkt økes i første omgang med kr 78,- (beregnet anslag) fra 1. mai 2020. Over knekkpunkt gjøres det ingen endringer blir satsen den samme som i dag (kr 499,-).  
 
 Normaltarifforhandlingene skal som tidligere gjennomføres årlig og kommer i tillegg til dette. Årets forhandlinger er utsatt til høsten. 
 
-Det legges også opp til en styrking av SOP, økt antall ALIS avtaler, introduksjonsavtaler, kvalitetssystem tilsvarende SKIL, reduksjon av ikke-kliniske-oppgaver, bedre samhandling og stopp av oppgaveoverføring fra sykehusene. Men som sagt må økonomien styrkes ytterligere, og det blir her kampen må fortsette. Uansett viser regjeringen en vilje og forståelse for hovedutfordringene i fastlegeordningen og forplikter seg til å gjennomføre nødvendige tiltak. 
+Det legges også opp til en styrking av SOP, økt antall ALIS avtaler, introduksjonsavtaler, kvalitetssystem tilsvarende SKIL, reduksjon av ikke-kliniske-oppgaver, bedre samhandling og stopp av oppgaveoverføring fra sykehusene.
 
-Det legges nå opp til et videre arbeid i trepartssamarbeidet hvor en skal se på legevakt, innretning av takstsystemet (for å understøtte faglig riktig praksis), organisering av legekontor (team, gruppeavtaler og ledelse). Det er fortsatt en rekke ting som gjenstår, men samtidig gir det oss en god mulighet til å delta aktivt inn i dette arbeidet. Det pekes på løsninger i handlingsplanen som vi er kritiske til, og som vil kreve grundige utredninger og diskusjon. Vi er ikke i mål, men har kommet et godt stykke videre. Hovedfokuset vårt nå fremover blir å styrke økonomien og delta som en viktig premissleverandør i det arbeidet planen legger opp til. 
-
-Planen er derfor et godt utgangspunkt for vårt videre arbeid og gir en viss grad av optimisme. Vi har nå fått på plass en fornuftig struktur, men den økonomiske ramme er ikke tilstrekkelig for å nå alle målene. Regjeringen forplikter seg til fortløpende vurdering av om tiltakene i planen treffer og om det vil være behov for ekstra tiltak underveis. Den videre dialogen om dette og økonomien blir derfor helt avgjørende for om vi når målet om å få de erfarne fastlegene til å bli i yrket - og flere unge leger til å bli fastlege.  
-
+Det legges nå opp til et videre arbeid i trepartssamarbeidet hvor en skal se på legevakt, innretning av takstsystemet (for å understøtte faglig riktig praksis), organisering av legekontor (team, gruppeavtaler og ledelse). Det er fortsatt en rekke ting som gjenstår, men samtidig gir det oss en god mulighet til å delta aktivt inn i dette arbeidet. Det pekes på løsninger i handlingsplanen som vi er kritiske til, og som vil kreve grundige utredninger og diskusjon.
 
  
 **Stabilisering:**
