@@ -1,5 +1,5 @@
 ---
-title: "An example conference paper"
+title: "Handlingsplan for allmennlegetjenesten"
 authors:
 - Helse- og omsorgsdepartementet
 date: "2020-05-11T00:00:00Z"
