@@ -1,9 +1,10 @@
 ---
-title: "Handlingsplan for allmennlegetjenesten"
+title: "Mal for rapporter"
 authors:
 - Helse- og omsorgsdepartementet
 date: "2020-05-11T00:00:00Z"
 doi: ""
+draft: true
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2017-01-01T00:00:00Z"
