@@ -16,7 +16,7 @@ publication_types: ["4"]
 
 # Publication name and optional abbreviated publication name.
 publication: Handlingsplan for allmennlegetjenesten - Attraktiv, kvalitetssikker og teambasert - 2020–2024 
-publication_short: In *STC*
+publication_short: 
 
 abstract: Handlingsplanen skal bidra til å styrke, utvikle og bevare en fastlegeordning som gir pasientene allmennlegetjenester av høy kvalitet. Planen inneholder 17 tiltak.
 
