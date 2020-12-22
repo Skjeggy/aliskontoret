@@ -31,13 +31,6 @@ links:
 - name: Kildesiden
   url: https://www.regjeringen.no/no/dokumenter/handlingsplan-for-allmennlegetjenesten/id2701926/
 url_pdf: https://www.regjeringen.no/contentassets/96f6581333ee48559cdabf23c8772294/handlingsplan-for-allmennleger.pdf
-url_code: '#'
-url_dataset: '#'
-url_poster: '#'
-url_project: ''
-url_slides: ''
-url_source: '#'
-url_video: '#'
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
