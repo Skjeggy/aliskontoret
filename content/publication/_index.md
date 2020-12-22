@@ -1,6 +1,6 @@
 ---
 title: Publikasjoner og rapporter
-view: 2
+view: 3
 
 header:
   caption: ""
