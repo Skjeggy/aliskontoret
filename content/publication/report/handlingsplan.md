@@ -21,7 +21,7 @@ url_pdf = "https://www.regjeringen.no/contentassets/96f6581333ee48559cdabf23c877
 url_poster = ""
 url_project = ""
 url_slides = ""
-url_source = "https://www.regjeringen.no/no/dokumenter/handlingsplan-for-allmennlegetjenesten/id2701926/"
+url_source = ["kilde"]"https://www.regjeringen.no/no/dokumenter/handlingsplan-for-allmennlegetjenesten/id2701926/"
 url_video = ""
 [image]
 caption = ""
