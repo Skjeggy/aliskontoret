@@ -31,11 +31,7 @@ featured: true
 
 links:
 url_pdf: https://www.ks.no/contentassets/9a325e9ca0fa4d53b25fd102311fce91/Rapport-KS-Finansiering-fastlegeordningen-13-11-2020-NY.pdf
-url_poster: = ""
-url_project: = ""
-url_slides: = ""
-url_source: = ""
-url_video: = ""
+
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
