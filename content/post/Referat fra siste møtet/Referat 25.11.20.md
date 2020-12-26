@@ -1,0 +1,33 @@
++++
+authors = []
+date = 2020-12-20T23:00:00Z
+featured = false
+projects = []
+publication = ""
+publication_short = ""
+publication_types = []
+publishDate = 2020-12-20T23:00:00Z
+sammendrag = ""
+slides = ""
+summary = "Møtereferat og oppsummering."
+tags = []
+title = "Novembermøtet"
+url_code = ""
+url_dataset = ""
+url_pdf = "./referat.pdf"
+url_poster = ""
+url_project = ""
+url_slides = ""
+url_source = ""
+url_video = ""
+[image]
+caption = ""
+focal_point = ""
+preview_only = false
+
+
++++
+
+## Sammendrag
+
+Det var et interessant møte og mange viktige saker ble drøftet. Se vedlagt pdf for møtereferatet i sin helhet. 
