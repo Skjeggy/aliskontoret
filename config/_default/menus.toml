@@ -10,7 +10,7 @@
 
 [[main]]
   name = "ALIS-boka"
-  url = "https://alisboka.netlify.app/"
+  url = "alisboka"        #"https://alisboka.netlify.app/"
   weight = 10
 
 [[main]]
