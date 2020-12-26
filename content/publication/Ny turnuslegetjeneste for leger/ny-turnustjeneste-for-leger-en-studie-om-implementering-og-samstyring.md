@@ -32,11 +32,7 @@ links:
 - name: Kildesiden
   url: https://www.nsdm.no/ny-turnuslegetjeneste-for-leger/
 url_pdf: http://arkiv.nsdm.no/filarkiv/File/rapporter/Rapport%20om%20ny%20turnustjeneste_endelig.pdf
-url_poster: = ""
-url_project: = ""
-url_slides: = ""
-url_source: = ""
-url_video: = ""
+
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
