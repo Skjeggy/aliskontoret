@@ -16,7 +16,7 @@ publishDate: "2020-03-01T00:00:00Z"
 publication_types: ["4"]
 
 # Publication name and optional abbreviated publication name.
-publication: Statusrapport ALIS-Nord - mars 2020 
+publication: 
 publication_short: 
 
 abstract: ALIS-Nord har sendt sin første interne statusrapport til Helsedirektoratet. Den redegjør for oppstartsfasen i prosjektet og status per 1. mars 2020.
