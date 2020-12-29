@@ -36,7 +36,6 @@ De kan kontaktes med følgende mailadresser:
 **ALIS-kontor Sør:** 
 alissor@kristiansand.kommune.no
 
-
 **ALIS-kontor Vest:** 
 alisvest@bergen.kommune.no
 
