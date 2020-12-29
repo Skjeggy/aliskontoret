@@ -26,7 +26,7 @@ content:
       captcha: false
 
 design:
-  columns: '1'
+  columns: '2'
 ---
 
 Det finnes 5 forskjellige ALIS-kontor i Norge. 
