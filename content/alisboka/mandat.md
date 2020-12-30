@@ -9,4 +9,4 @@ weight: 1
 ---
 
 
-Link til mandatet og mer om mandatet går her.
+Her kan du finne mandatet for ALIS kontorene: [link](https://www.regjeringen.no/contentassets/578a8c4a02e64a05896dee69e1626b57/tillegg-til-tildelingsbrev-nr.-34-prosess-for-etablering-og-mandat-for-alis-kontor.pdf)
