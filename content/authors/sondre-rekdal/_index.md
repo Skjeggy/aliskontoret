@@ -3,7 +3,7 @@
 title: Sondre Sverd Rekdal
 
 # Is this the primary user of the site?
-superuser: true
+superuser: false
 
 # Role/position
 role: ALIS-Sør
@@ -17,21 +17,24 @@ organizations:
 bio: ALIS og helseinformatiker.
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Allmennmedisin
+- Eksponeringsterapi
+- Teknologi og innovasjon
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
+  - course: Allmennlege i spesialisering
+    institution: Kristiansand Kommune
+    year: Pågående
+  - course: Kognivit atferdsterapi for barn og unge
+    institution: Regionssenter for barn og unges psykiske helse (RBUP)
+    year: Pågående
+  - course: Master i Helse- og Sosialinformatikk
+    institution: Universitetet i Agder
     year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: Profesjonsstudium i Medisin
+    institution: University of Bratislava
+    year: 2015
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
