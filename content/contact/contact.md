@@ -10,7 +10,7 @@ headless: true
 weight: 10
 
 title: Kontakt oss
-subtitle: Det finnes 5 forskjellige ALIS-kontor i Norge. 
+subtitle: 
 
 content:
   # Automatically link email and phone or display as text?
@@ -29,8 +29,7 @@ design:
   columns: '2'
 ---
 
-
-
+Det finnes 5 forskjellige ALIS-kontor i Norge. 
 De kan kontaktes med følgende mailadresser:
 
 **ALIS-kontor Sør:** 
@@ -40,10 +39,10 @@ alissor@kristiansand.kommune.no
 alisvest@bergen.kommune.no
 
 **ALIS-kontor Øst:**
-alisøst@hamar.kommune.no
+alisost@hamar.kommune.no
 
 **ALIS-kontor Nord:**
-alisnord@tromsø.kommune.no
+alisnord@tromso.kommune.no
 
 **ALIS-kontor Midt:**
 alismidt@trondheim.kommune.no
