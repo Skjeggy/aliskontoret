@@ -6,7 +6,7 @@ title: Svein Steinert
 superuser: false
 
 # Role/position
-role: ALIS-Nord
+role: Prosjektleder
 
 # Organizations/Affiliations
 organizations:
@@ -52,7 +52,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- 
+- ALIS-Nord
 ---
 
 66 år, Cand. Med. ved Universitetet i Oslo i 1981. Spesialist i allmennmedisin og master i folkehelsevitenskap (MPH). Var bl.a. leder av fastlegeforsøket i Tromsø 1993-96, nestleder på Nasjonalt senter for distriktsmedisin (NSDM) 2006 – 2012 og fylkeslege i Troms 2012 – 2018. Har i tillegg hatt en rekke verv i Legeforeningen, bl.a. leder av Fagutvalget for Almentpraktiserende legers forening (Aplf) 1998-2002 og leder av hovedkomiteen for Nordisk kongress i allmennmedisin i Tromsø i 2011. Prosjektleder for ALIS-Nord fra 1. januar 2019.  
