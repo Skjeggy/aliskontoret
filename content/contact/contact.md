@@ -50,8 +50,8 @@ alismidt@trondheim.kommune.no
 
 ## Mail adresse til de forskjellige kontorene
 
-| Left columns          | Right columns                     |
-| -------------         |:-------------:                    |
-| ALIS-kontor Midt:     | alismidt@trondheim.kommune.no     |
-| ALIS-kontor Sør       | alissor@kristiansand.kommune.no   |
-| ALIS-kontor Øst       | alisost@hamar.kommune.no          |
+| Kontornavn            | Mail                              | Telefon                     |
+| -------------         |:-------------:                    |:-------------:              |
+| ALIS-kontor Midt:     | alismidt@trondheim.kommune.no     | 12345678                    |
+| ALIS-kontor Sør       | alissor@kristiansand.kommune.no   | 12345678                    |
+| ALIS-kontor Øst       | alisost@hamar.kommune.no          | 12345678                    |
