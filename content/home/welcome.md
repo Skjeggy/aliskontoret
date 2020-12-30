@@ -16,11 +16,6 @@ advanced:
   css_style:
   css_class:
 
-background:
-  color: 'navy'
-  # Text color (true=light or false=dark).
-  text_color_light: true
-
 ---
 
 ALIS-kontorene er et statsstøttet prosjekt som tilrettelegger for utdanningsstillinger i allmennmedisin i hele landet. 
