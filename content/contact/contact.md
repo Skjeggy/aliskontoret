@@ -9,7 +9,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 10
 
-title: Kontakt oss
+title: Kontaktinfo til de forskjellige kontorene
 subtitle: 
 
 content:
@@ -26,34 +26,16 @@ content:
     #   captcha: false
 
 design:
-  columns: '2'
+  columns: '1'
 ---
 
 Det finnes 5 forskjellige ALIS-kontor i Norge. 
-De kan kontaktes med følgende mailadresser:
 
-**ALIS-kontor Sør:** 
-alissor@kristiansand.kommune.no
-
-**ALIS-kontor Vest:** 
-alisvest@bergen.kommune.no
-
-**ALIS-kontor Øst:**
-alisost@hamar.kommune.no
-
-**ALIS-kontor Nord:**
-alisnord@tromso.kommune.no
-
-**ALIS-kontor Midt:**
-alismidt@trondheim.kommune.no
-
-
-## Kontaktinfo til de forskjellige kontorene
 
 | Kontornavn            | Mail                              | Telefon                     |
 | -------------         |:-------------:                    |:-------------:              |
-| ALIS-kontor Midt      | alismidt@trondheim.kommune.no     | 12345678                    |
-| ALIS-kontor Sør       | alissor@kristiansand.kommune.no   | 12345678                    |
-| ALIS-kontor Øst       | alisost@hamar.kommune.no          | 12345678                    |
-| ALIS-kontor Vest      | alisvest@bergen.kommune.no        | 12345678                    |
-| ALIS-kontor Nord      | alisnord@tromso.kommune.no        | 12345678                    |
+| **ALIS-kontor Midt**  | alismidt@trondheim.kommune.no     | 12345678                    |
+| **ALIS-kontor Sør**   | alissor@kristiansand.kommune.no   | 12345678                    |
+| **ALIS-kontor Øst**   | alisost@hamar.kommune.no          | 12345678                    |
+| **ALIS-kontor Vest**  | alisvest@bergen.kommune.no        | 12345678                    |
+| **ALIS-kontor Nord**  | alisnord@tromso.kommune.no        | 12345678                    |
