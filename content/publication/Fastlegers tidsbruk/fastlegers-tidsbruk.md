@@ -17,16 +17,16 @@ publishDate: "2018-02-01T00:00:00Z"
 publication_types: ["4"]
 
 # Publication name and optional abbreviated publication name.
-publication: Fastlegers tidsbruk
+publication: 
 publication_short: 
 
-# abstract: Helse- og omsorgsdepartementet har i 2017 bedt Helsedirektoratet gjennomføre en kartlegging av hvordan fastleger fordeler sin tid på ulike arbeidsoppgaver og pasientgrupper. Helsedirektoratet ba Nasjonalt kompetansesenter for legevaktmedisin (Nklm) om å gjennomføre undersøkelsen. Vi kartlatidsbruk på ulike oppgaver, som kurativ fastlegepraksis, allmennlegeoppgaver i kommunen, legevakt og andre legeoppgaver - og på noen utvalgte pasientgrupper i løpet av én sammenhengende uke.
+abstract: 
 
 # Summary. An optional shortened abstract.
-summary: Helse- og omsorgsdepartementet har i 2017 bedt Helsedirektoratet gjennomføre en kartlegging av hvordan fastleger fordeler sin tid på ulike arbeidsoppgaver og pasientgrupper.
+summary: Helse- og omsorgsdepartementet har i 2017 bedt Helsedirektoratet gjennomføre en kartlegging av hvordan fastleger fordeler sin tid på ulike arbeidsoppgaver og pasientgrupper. Helsedirektoratet ba Nasjonalt kompetansesenter for legevaktmedisin (Nklm) om å gjennomføre undersøkelsen. Vi kartlatidsbruk på ulike oppgaver, som kurativ fastlegepraksis, allmennlegeoppgaver i kommunen, legevakt og andre legeoppgaver - og på noen utvalgte pasientgrupper i løpet av én sammenhengende uke.
 
 tags:
-- Source Themes
+- Arbeidsbelastning
 featured: true
 
 links:

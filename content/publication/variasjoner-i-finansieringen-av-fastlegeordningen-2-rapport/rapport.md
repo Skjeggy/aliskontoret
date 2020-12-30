@@ -16,17 +16,17 @@ publishDate: "2020-11-01T00:00:00Z"
 publication_types: ["4"]
 
 # Publication name and optional abbreviated publication name.
-publication: Variasjoner i finansiering av fastlegeordningen – andre oppfølgingsundersøkelse
+publication: 
 
 publication_short: 
 
-abstract: På oppdrag fra KS har Ipsos i samarbeid med Samfunnsøkonomisk analyse kartlagt omfanget av kommunenes egenfinansiering/subsidiering av fastlegeordningen, det vil si subsidiering utover den ordinære fastlegeordningen (hovedmodellen). Videre har man undersøkt innretning av, formål med og kommunenes merkostnader knyttet til slik subsidiering. Årets gjennomføring er den tredje i rekken, og er en oppfølgning av kartleggingen gjennomført i mai 2018 (nullpunktsmåling) og juni 2019 (første oppfølgingsundersøkelse). Formålet har vært å få oppdaterte tall og vurdere om det har vært endring over tid.
+abstract:
 
 # Summary. An optional shortened abstract.
 summary: På oppdrag fra KS har Ipsos i samarbeid med Samfunnsøkonomisk analyse kartlagt omfanget av kommunenes egenfinansiering/subsidiering av fastlegeordningen, det vil si subsidiering utover den ordinære fastlegeordningen (hovedmodellen). Videre har man undersøkt innretning av, formål med og kommunenes merkostnader knyttet til slik subsidiering. Årets gjennomføring er den tredje i rekken, og er en oppfølgning av kartleggingen gjennomført i mai 2018 (nullpunktsmåling) og juni 2019 (første oppfølgingsundersøkelse). Formålet har vært å få oppdaterte tall og vurdere om det har vært endring over tid.
 
 tags:
-- Source Themes
+- Finansiering
 featured: true
 
 links:

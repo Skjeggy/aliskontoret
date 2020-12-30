@@ -19,13 +19,13 @@ publication_types: ["4"]
 publication: 
 publication_short: 
 
-abstract: ALIS-Nord har sendt sin første interne statusrapport til Helsedirektoratet. Den redegjør for oppstartsfasen i prosjektet og status per 1. mars 2020.
+abstract: 
 
 # Summary. An optional shortened abstract.
 summary: ALIS-Nord har sendt sin første interne statusrapport til Helsedirektoratet. Den redegjør for oppstartsfasen i prosjektet og status per 1. mars 2020.
 
 tags:
-- Source Themes
+- Statusrapporter
 featured: true
 
 links:

@@ -19,13 +19,13 @@ publication_types: ["4"]
 publication: 
 publication_short: 
 
-abstract: Vekst i utlysningen av kommunale reststillinger og tegn til systematisk bortvalg av turnusstillinger i de minst sentrale og i de minst folkerike kommunene, er noen av funnene som rapporteres i NSDMs undersøkelse om ny turnustjeneste.
+abstract: 
 
 # Summary. An optional shortened abstract.
-summary: 
+summary: Vekst i utlysningen av kommunale reststillinger og tegn til systematisk bortvalg av turnusstillinger i de minst sentrale og i de minst folkerike kommunene, er noen av funnene som rapporteres i NSDMs undersøkelse om ny turnustjeneste.
 
 tags:
-- Source Themes
+- Turnustjenesten/LIS1
 featured: true
 
 links:
