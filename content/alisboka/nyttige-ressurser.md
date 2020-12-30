@@ -11,19 +11,19 @@ weight: 99
 Linker til nyttige ressurser kommer her.
 
 
-## [Info om spesialistutdanning for leger](https://www.helsedirektoratet.no/tema/autorisasjon-og-spesialistutdanning/spesialistutdanning-for-leger)
+## Info om spesialistutdanning for leger
 
-Helsedirektoratets ressursside for spesialistutdanning for leger. Her finner du informasjon om spesialistforeskriften, kompetanseportalen, hvordan søke om spesialistgodkjenning, ansettelseskrav, overgangsregler, ferie og fravær, rapporter, registrering og godkjenning av utdanningsvirksomheter mm. 
-
-
-## [Håndbok for veiledningsgrupper i allmennmedisin - Program, læringsmål og ideer](https://www.legeforeningen.no/contentassets/ca52984bd65f4ccc931b55ed40d157e9/handbok-for-veiledningsgrupper-30122020.pdf?_t_id=zKD6JSiIDdonUqqSzVSD9w%3d%3d&_t_uuid=nNbtF_Z0QfeZ-r0NJ8hyng&_t_q=h%c3%a5ndbok&_t_tags=language%3ano%2csiteid%3ac878b55f-6c1a-46b5-b2d4-afe03277ea1e%2candquerymatch&_t_hit.id=Legeforeningen_Web_Models_Media_Document/_04883db0-cc88-44a1-aacd-e562cc3dbddc&_t_hit.pos=1)
-
-Legeforeningen har utviklet en håndbok for veiledningsgrupper i allmennmedisin som ligger tilgjengelig på lenken over. Her kan både veileder og ALIS finne nyttig informasjon som kan være til hjelp under utdanningsløpet.
+Helsedirektoratets har en egen [ressursside](https://www.helsedirektoratet.no/tema/autorisasjon-og-spesialistutdanning/spesialistutdanning-for-leger) for spesialistutdanning for leger. Her finner du informasjon om spesialistforeskriften, kompetanseportalen, hvordan søke om spesialistgodkjenning, ansettelseskrav, overgangsregler, ferie og fravær, rapporter, registrering og godkjenning av utdanningsvirksomheter mm. 
 
 
-## [Utposten](www.utposten.no)
+## Håndbok for veiledningsgrupper i allmennmedisin - Program, læringsmål og ideer
 
-Utposten er et fagblad for allmenn- og samfunnsmedisin som går for følgende kriterier. 
+Legeforeningen har utviklet en håndbok for veiledningsgrupper i allmennmedisin som ligger tilgjengelig på lenken over. Her kan både veileder og ALIS finne nyttig informasjon som kan være til hjelp under utdanningsløpet. Håndlboken finner du [her](https://www.legeforeningen.no/contentassets/ca52984bd65f4ccc931b55ed40d157e9/handbok-for-veiledningsgrupper-30122020.pdf?_t_id=zKD6JSiIDdonUqqSzVSD9w%3d%3d&_t_uuid=nNbtF_Z0QfeZ-r0NJ8hyng&_t_q=h%c3%a5ndbok&_t_tags=language%3ano%2csiteid%3ac878b55f-6c1a-46b5-b2d4-afe03277ea1e%2candquerymatch&_t_hit.id=Legeforeningen_Web_Models_Media_Document/_04883db0-cc88-44a1-aacd-e562cc3dbddc&_t_hit.pos=1).
+
+
+## Utposten
+
+[Utposten](www.utposten.no) er et fagblad for allmenn- og samfunnsmedisin som går for følgende kriterier. 
 
 - Å ha et blikk på helsetjenesten fra førstelinjetjenesten og fra periferien.
 - Å fokusere på helsetjenestens utfordringer og prioriteringer.
@@ -32,12 +32,13 @@ Utposten er et fagblad for allmenn- og samfunnsmedisin som går for følgende kr
 - Å presenterer forskning og kvalitetsutvliklingsprosjekter forankret i primærhelsetjenesten.
 
 
-## [Norsk Elektronisk Legehåndbok (NEL)](www.legehandboka.no)
+## Norsk Elektronisk Legehåndbok (NEL)
 
 NEL er Skandinavias mest brukte oppslagsverk for leger og helsepersonell. NEL er også oversatt til svensk og dansk, og finnes i Sverige som Medibas og i Danmark som Lægehåndbogen. NEL kvalitetssikres forløpende og er til envher tid oppdatert i henhold til nasjonale retningslinjer og internasjonal forskning. 
+Linken finner du [her](www.legehandboka.no). 
 
 
-## Allmennlegeforeningen - 
+## Allmennlegeforeningen
 
 Allmennlegeforeningen er en yrkesforening for allmennleger i Den norske legeforeningen. De har en egen facebookgruppe for formidling av sitt arbeid. De har en egen [nettside](https://www.legeforeningen.no/foreningsledd/fagmed/norsk-forening-for-allmennmedisin/) , samt en [facebookside](https://www.facebook.com/allmennlegeforeningen/posts/950124451729925/).
 
@@ -48,6 +49,6 @@ Allmennlegeforeningen er en yrkesforening for allmennleger i Den norske legefore
 Vi ved ALIS-kontor Nord har laget en «infobrosjyre»/veiledning for prosessen med å konvertere ALIS fra gammel til ny ordning. Målet er at den skal være relativt kort og gi enkel og oversiktlig informasjon om konverserings prosessen fra gammel til ny ordning.
 
 
-## Oversikt over godkjente kurs for allmennleger - [link](https://www.legeforeningen.no/foreningsledd/fagmed/norsk-forening-for-allmennmedisin/Kurs-og-kvalitetsarbeid/Kurs/Godkjente-kurs-for-allmennleger/)
+## Oversikt over godkjente kurs for allmennleger - 
 
-Hentet fra legeforeningens sider.
+[Her](https://www.legeforeningen.no/foreningsledd/fagmed/norsk-forening-for-allmennmedisin/Kurs-og-kvalitetsarbeid/Kurs/Godkjente-kurs-for-allmennleger/) kan du finne en oversikt over godkjente kurs for allmennleger fra legeforeningens egne sider.
