@@ -18,7 +18,7 @@ Helsedirektoratets har en egen [ressursside](https://www.helsedirektoratet.no/te
 
 ## Håndbok for veiledningsgrupper i allmennmedisin - Program, læringsmål og ideer
 
-Legeforeningen har utviklet en håndbok for veiledningsgrupper i allmennmedisin som ligger tilgjengelig på lenken over. Her kan både veileder og ALIS finne nyttig informasjon som kan være til hjelp under utdanningsløpet. Håndlboken finner du [her](https://www.legeforeningen.no/contentassets/ca52984bd65f4ccc931b55ed40d157e9/handbok-for-veiledningsgrupper-30122020.pdf?_t_id=zKD6JSiIDdonUqqSzVSD9w%3d%3d&_t_uuid=nNbtF_Z0QfeZ-r0NJ8hyng&_t_q=h%c3%a5ndbok&_t_tags=language%3ano%2csiteid%3ac878b55f-6c1a-46b5-b2d4-afe03277ea1e%2candquerymatch&_t_hit.id=Legeforeningen_Web_Models_Media_Document/_04883db0-cc88-44a1-aacd-e562cc3dbddc&_t_hit.pos=1).
+Legeforeningen har utviklet en håndbok for veiledningsgrupper i allmennmedisin som ligger tilgjengelig på lenken over. Her kan både veileder og ALIS finne nyttig informasjon som kan være til hjelp under utdanningsløpet. Håndboken finner du [her](https://www.legeforeningen.no/contentassets/ca52984bd65f4ccc931b55ed40d157e9/handbok-for-veiledningsgrupper-30122020.pdf?_t_id=zKD6JSiIDdonUqqSzVSD9w%3d%3d&_t_uuid=nNbtF_Z0QfeZ-r0NJ8hyng&_t_q=h%c3%a5ndbok&_t_tags=language%3ano%2csiteid%3ac878b55f-6c1a-46b5-b2d4-afe03277ea1e%2candquerymatch&_t_hit.id=Legeforeningen_Web_Models_Media_Document/_04883db0-cc88-44a1-aacd-e562cc3dbddc&_t_hit.pos=1).
 
 
 ## Utposten
@@ -46,7 +46,7 @@ Allmennlegeforeningen er en yrkesforening for allmennleger i Den norske legefore
 
 ## Konverteringsveileder fra gammel til ny ordning
 
-Ved ALIS-kontor Nord har man laget en «infobrosjyre»/veiledning for prosessen med å konvertere ALIS fra gammel til ny ordning. Målet er at den skal være relativt kort og gi enkel og oversiktlig informasjon om konverserings prosessen fra gammel til ny ordning.
+Ved ALIS-kontor Nord har man laget en «infobrosjyre»/veiledning for prosessen med å konvertere ALIS fra gammel til ny ordning. Målet er at den skal være relativt kort og gi enkel og oversiktlig informasjon om konverterings prosessen fra gammel til ny ordning. Veilederen finner du [her]()
 
 
 ## Oversikt over godkjente kurs for allmennleger
