@@ -6,7 +6,7 @@ title: Sondre Sverd Rekdal
 superuser: false
 
 # Role/position
-role: ALIS-Sør
+role: Rådgivende lege
 
 # Organizations/Affiliations
 organizations:
