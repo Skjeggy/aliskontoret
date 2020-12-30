@@ -48,10 +48,12 @@ alisnord@tromso.kommune.no
 alismidt@trondheim.kommune.no
 
 
-## Mail adresse til de forskjellige kontorene
+## Kontaktinfo til de forskjellige kontorene
 
 | Kontornavn            | Mail                              | Telefon                     |
 | -------------         |:-------------:                    |:-------------:              |
-| ALIS-kontor Midt:     | alismidt@trondheim.kommune.no     | 12345678                    |
+| ALIS-kontor Midt      | alismidt@trondheim.kommune.no     | 12345678                    |
 | ALIS-kontor Sør       | alissor@kristiansand.kommune.no   | 12345678                    |
 | ALIS-kontor Øst       | alisost@hamar.kommune.no          | 12345678                    |
+| ALIS-kontor Vest      | alisvest@bergen.kommune.no        | 12345678                    |
+| ALIS-kontor Nord      | alisnord@tromso.kommune.no        | 12345678                    |
