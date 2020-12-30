@@ -17,4 +17,4 @@ Linken til deres hjemmeside finner du [her](https://www.bergen.kommune.no/hvaskj
 
 ## ALIS-nord
 
-Linken til deres hjemmeside finner du [her](https://www.alis-nord.no/?lang=no_NO)
+Linken til deres hjemmeside finner du [her](https://www.alis-nord.no/?lang=no_NO). De har også en egen [facebookside](https://www.facebook.com/ALISNord/?view_public_for=107949851038117)

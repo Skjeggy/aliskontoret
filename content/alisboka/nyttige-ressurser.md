@@ -44,11 +44,11 @@ Allmennlegeforeningen er en yrkesforening for allmennleger i Den norske legefore
 
 
 
-## Konverteringsveileder fra gammel til ny ordning - [link]()
+## Konverteringsveileder fra gammel til ny ordning
 
-Vi ved ALIS-kontor Nord har laget en «infobrosjyre»/veiledning for prosessen med å konvertere ALIS fra gammel til ny ordning. Målet er at den skal være relativt kort og gi enkel og oversiktlig informasjon om konverserings prosessen fra gammel til ny ordning.
+Ved ALIS-kontor Nord har man laget en «infobrosjyre»/veiledning for prosessen med å konvertere ALIS fra gammel til ny ordning. Målet er at den skal være relativt kort og gi enkel og oversiktlig informasjon om konverserings prosessen fra gammel til ny ordning.
 
 
-## Oversikt over godkjente kurs for allmennleger - 
+## Oversikt over godkjente kurs for allmennleger
 
 [Her](https://www.legeforeningen.no/foreningsledd/fagmed/norsk-forening-for-allmennmedisin/Kurs-og-kvalitetsarbeid/Kurs/Godkjente-kurs-for-allmennleger/) kan du finne en oversikt over godkjente kurs for allmennleger fra legeforeningens egne sider.
