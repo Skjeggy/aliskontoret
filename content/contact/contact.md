@@ -29,9 +29,6 @@ design:
   columns: '2'
 ---
 
-Det finnes 5 forskjellige ALIS-kontor i Norge. 
-
-
 | Kontornavn            | Mail                              | Telefon                     |
 | -------------         |:-------------:                    |:-------------:              |
 | **ALIS-kontor Midt**  | alismidt@trondheim.kommune.no     | 12345678                    |
