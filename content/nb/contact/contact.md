@@ -9,7 +9,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 10
 
-title: Kontaktinfo til de forskjellige kontorene
+title: Kontaktinfo
 subtitle: 
 
 content:
@@ -35,4 +35,4 @@ design:
 | **ALIS-kontor Sør**   | alissor@kristiansand.kommune.no   | 12345678                    |
 | **ALIS-kontor Øst**   | alisost@hamar.kommune.no          | 12345678                    |
 | **ALIS-kontor Vest**  | alisvest@bergen.kommune.no        | 12345678                    |
-| **ALIS-kontor Nord**  | alisnord@tromso.kommune.no        | 12345678                    |
+| **ALIS-kontor Nord**  | alisnord@bodo.kommune.no          | 12345678                    |

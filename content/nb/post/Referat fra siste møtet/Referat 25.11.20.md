@@ -26,6 +26,10 @@ focal_point = ""
 preview_only = false
 
 
+[header]
+image = "media/welcome.jpg" #the image path is header/...jpg
+caption = "Image credit: [**Academic**](https://github.com/gcushen/hugo-academic/)"
+
 +++
 
 ## Sammendrag
