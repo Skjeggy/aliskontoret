@@ -28,6 +28,8 @@ image:
 
 ---
 
+{{< figure src="welcome.jpg" title="A caption" >}}
+
 Vi ved ALIS-kontor Nord har laget en «infobrosjyre»/veiledning for prosessen med å konvertere ALIS fra gammel til ny ordning. Målet er at den skal være relativt kort og gi enkel og oversiktlig informasjon om konverserings prosessen fra gammel til ny ordning.
 
 Les mer på PDF linken over.
