@@ -21,14 +21,13 @@ url_pdf: "pdf/konvertering.pdf"
 # Focal point options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
 
 image:
-  placement: 2
+  placement: 3
   caption: 'Dette er en test'
-  focal_point: ""
+  focal_point: "Center"
   preview_only: false
 
 ---
 
-{{< figure src="featured.jpg" title="A caption" >}}
 
 Vi ved ALIS-kontor Nord har laget en «infobrosjyre»/veiledning for prosessen med å konvertere ALIS fra gammel til ny ordning. Målet er at den skal være relativt kort og gi enkel og oversiktlig informasjon om konverserings prosessen fra gammel til ny ordning.
 
