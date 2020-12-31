@@ -12,7 +12,7 @@ slides:
 summary: " ALIS-kontor Nord har laget en «infobrosjyre»/veiledning for prosessen med å konvertere ALIS fra gammel til ny ordning."
 tags: []
 
-url_pdf = "pdf/konvertering.pdf"
+url_pdf: "pdf/konvertering.pdf"
 
 
 # Featured image
