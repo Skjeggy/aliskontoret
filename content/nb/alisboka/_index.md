@@ -2,8 +2,14 @@
 title: ALIS-boka
 type: book  # Do not modify.
 
+background:
+  gradient_start: '#4bb4e3'
+  gradient_end: '#2b94c3'
+  # Text color (true=light or false=dark).
+  text_color_light: true
+
 ---
 
 Dette er en kunnskapsdatabase både for ALIS (allmennleger i spesialisering) og kommunene de jobber i eller for. 
 
-![Bilde av en lisa simpson](https://www.stickpng.com/img/download/5eb95c0917f3c600044a290b)
+{{< figure library="true" src="simpson.jpg" title="Lisa Simpson" >}}
