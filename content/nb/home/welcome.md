@@ -8,7 +8,7 @@ headless: true  # This file represents a page section.
 weight: 10  # Order that this section will appear.
 title: "ALIS-kontoret"
 subtitle: ""
-hero_media: https://unsplash.com/photos/LQK8R7wjv4w
+hero_media: norway.jpg
 design:
   # Choose how many columns the section has. Valid values: 1 or 2.
   columns: '1'
