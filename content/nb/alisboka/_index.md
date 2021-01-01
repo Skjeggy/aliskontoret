@@ -12,4 +12,4 @@ background:
 
 Dette er en kunnskapsdatabase både for ALIS (allmennleger i spesialisering) og kommunene de jobber i eller for. 
 
-{{< figure library="true" src="simpson.jpg" title="Lisa Simpson" >}}
+{{< figure library="true" src="simpson.png" title="Lisa Simpson" >}}
