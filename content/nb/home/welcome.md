@@ -18,7 +18,7 @@ advanced:
 
 ---
 
-ALIS-kontorene er et statsstøttet prosjekt som tilrettelegger for utdanningsstillinger i allmennmedisin i hele landet. 
+ALIS-kontorene (ALIS står for Allmennlege i spesialisering) er et statsstøttet prosjekt som tilrettelegger for utdanningsstillinger i allmennmedisin i hele landet. 
 
 Det finnes 5 kontor og de har følgende plassering: 
 - **Kristiansand** (ALIS-kontor Sør)
