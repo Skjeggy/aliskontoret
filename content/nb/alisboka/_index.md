@@ -6,4 +6,4 @@ type: book  # Do not modify.
 
 Dette er en kunnskapsdatabase både for ALIS (allmennleger i spesialisering) og kommunene de jobber i eller for. 
 
-![Bilde av en lisa simpson](media/simpson.png)
+![Bilde av en lisa simpson](simpson.png)
