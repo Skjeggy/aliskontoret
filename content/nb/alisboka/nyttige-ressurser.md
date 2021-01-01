@@ -31,6 +31,14 @@ Legeforeningen har utviklet en håndbok for veiledningsgrupper i allmennmedisin 
 - Å presenterer lærerike kasuistikker og nyttige tips til praksis.
 - Å presenterer forskning og kvalitetsutvliklingsprosjekter forankret i primærhelsetjenesten.
 
+## Fastlegen.no
+
+[Fastlegen.no](www.fastlegen.no) er medlemsmagasin for Allmennlegeforeningen.
+
+Magasinet presenterer nyheter, debattstoff og informasjon fra foreningen om saker som angår fastleger. Her finner du artikler om spesialisering, lover og avtaler for fastleger, helserett, humor,  helse- og fagpolitikk, praksisdrift og forskning.
+
+Fastlegen.no redigeres av to redaktører, Torstein Sakshaug og Ingebjørn Bleidvin.  En redaksjonskomité bestående av redaktørene og Morten Munkvik, Laila Didriksen, Cato Innerdal, Gisle Roksund, Ole Arild Osmundnes og Britt Larsen Mehmi bidrar med innhold. Styret i Allmennlegeforeningen er ansvarlig utgiver.
+
 
 ## Norsk Elektronisk Legehåndbok (NEL)
 
