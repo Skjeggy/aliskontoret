@@ -21,7 +21,7 @@ url_slides = ""
 url_source = ""
 url_video = ""
 [image]
-caption = ""
+caption = "Image credit: [**Academic**](https://github.com/gcushen/hugo-academic/)"
 focal_point = ""
 preview_only = false
 
