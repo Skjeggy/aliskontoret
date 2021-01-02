@@ -12,6 +12,12 @@ tags = []
 title = "Novembermøtet"
 url_pdf = "media/referat_nov20.pdf"
 
+
+# Featured image
+# To use, add an image named `featured.jpg/png` to your page's folder.
+# Placement options: 1 = Full column width, 2 = Out-set, 3 = Screen-width
+# Focal point options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
+
 ## [image]
 ## caption = "Image credit: [**Academic**](https://github.com/gcushen/hugo-academic/)"
 ## focal_point = ""
@@ -19,8 +25,8 @@ url_pdf = "media/referat_nov20.pdf"
 
 
 [header]
-image = "https://unsplash.com/photos/5bYxXawHOQg" #the image path is header/...jpg
-caption = "Hentet fra: https://unsplash.com/photos/5bYxXawHOQg"
+image = "https://unsplash.com/photos/g6e641CiHFQ" #the image path is header/...jpg
+caption = "Hentet fra: https://unsplash.com/photos/g6e641CiHFQ"
 
 +++
 
