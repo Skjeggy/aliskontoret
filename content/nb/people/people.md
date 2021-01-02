@@ -17,7 +17,7 @@ content:
   #   Edit `user_groups` in each user's profile to add them to one or more of these groups.
   user_groups:
   - ALIS-Sør
-  - ALIS-Nord
+  - ALIS-nord
   - ALIS-Vest
   - ALIS-Nord
   - ALIS-Øst
