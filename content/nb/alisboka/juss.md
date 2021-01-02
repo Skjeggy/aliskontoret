@@ -12,9 +12,13 @@ weight: 4
 
 Forskriften skal bidra til å heve kvaliteten i den kommunale helse- og omsorgstjenesten. Forskriften kan du lese i sin helhet [her](https://lovdata.no/dokument/LTI/forskrift/2017-02-17-192).
 
+---
+
 ## Forskrift om fastlegeordning i kommunene (Fastlegeforskriften)
 
 Formålet med fastlegeordningen er å sikre at alle får nødvendige allmennlegetjenester av god kvalitet til rett tid, og at personer bosatt i Norge får en fast allmennlege å forholde seg til. Forskriften kan du lese i sin helhet [her](https://lovdata.no/dokument/SF/forskrift/2012-08-29-842).
+
+---
 
 ## Lov om kommunale helse- og omsorgstjenester m.m. (helse- og omsorgstjenesteloven)
 
@@ -30,11 +34,13 @@ Lovens formål er særlig å:
 
 Du kan lese loven i sin helhet [her](https://lovdata.no/dokument/NL/lov/2011-06-24-30)
 
+---
 
 ## Forskrift om kompetansekrav for leger i den kommunale helse- og omsorgstjenesten
 
 Forskriften skal bidra til å heve kvaliteten i den kommunale helse- og omsorgstjenesten. Forskriften kan du lese i sin helhet [her](https://lovdata.no/dokument/SF/forskrift/2017-02-17-192).
 
+---
 
 ## Legeavtaler
 
