@@ -9,4 +9,17 @@ superuser: false
 user_groups:
 - ALIS-Vest
 
+bio: Spesialist i allmennmedisin, master i folkehelsevitenskap og prosjektleder for ALIS-Nord
+
+interests:
+- Allmennmedisin
+- Folkehelse
+
+education:
+  courses:
+  - course: Spesialist i allmennmedisin
+  - course: Master i folkehelsevitenskap
+  - course: Cand. Med.
+    institution: Universitetet i Oslo
+    year: 1981
 ---
