@@ -11,15 +11,16 @@ summary = "Møtereferat og oppsummering."
 tags = []
 title = "Novembermøtet"
 url_pdf = "media/referat_nov20.pdf"
-[image]
-caption = "Image credit: [**Academic**](https://github.com/gcushen/hugo-academic/)"
-focal_point = ""
-preview_only = false
+
+## [image]
+## caption = "Image credit: [**Academic**](https://github.com/gcushen/hugo-academic/)"
+## focal_point = ""
+## preview_only = false
 
 
 [header]
-image = "media/welcome.jpg" #the image path is header/...jpg
-caption = "Image credit: [**Academic**](https://github.com/gcushen/hugo-academic/)"
+image = "https://unsplash.com/photos/5bYxXawHOQg" #the image path is header/...jpg
+caption = "Hentet fra: https://unsplash.com/photos/5bYxXawHOQg"
 
 +++
 
