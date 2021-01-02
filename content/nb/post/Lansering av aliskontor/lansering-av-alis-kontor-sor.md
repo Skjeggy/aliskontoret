@@ -3,13 +3,11 @@ authors = []
 date = 2020-12-20T23:00:00Z
 featured = false
 projects = []
-publication = "Jeg er en publication"
-publication_short = "Jeg er en publication short"
 publication_types = []
 publishDate = 2020-12-20T23:00:00Z
-sammendrag = "Jeg er et sammendrag"
+abstract = ""
 slides = ""
-summary = ""
+summary = "Helsedirektoratet oppretter 5 regionale ALIS kontor i 2020."
 tags = []
 title = "Lansering av ALIS-kontor Sør"
 [image]
