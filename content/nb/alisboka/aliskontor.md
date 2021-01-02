@@ -15,6 +15,8 @@ De andre hjemmesidene til ALIS-kontorene finner du under.
 Linken til deres hjemmeside finner du [her](https://www.bergen.kommune.no/hvaskjer/tema/alis-vest).
 ALIS-vest har også mye interessant [følgeforskning](https://www.bergen.kommune.no/hvaskjer/tema/alis-vest/folgeforskning/folgeforskning-alis-vest).
 
+---
+
 ## ALIS-nord
 
 Linken til deres hjemmeside finner du [her](https://www.alis-nord.no/?lang=no_NO). De har også en egen [facebookside](https://www.facebook.com/ALISNord/?view_public_for=107949851038117)
