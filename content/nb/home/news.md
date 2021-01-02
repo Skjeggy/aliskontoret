@@ -25,7 +25,7 @@ design:
 design:
   columns: "1"
   background:
-    image: steth.jpg
+    image: norway.jpg
     image_darken: 0
     image_parallax: true
     image_position: center
