@@ -4,7 +4,7 @@ title: Svein Steinert
 superuser: false
 
 user_groups:
-- ALIS-Vest
+- ALIS-Nord
 
 organizations:
 - name: 
