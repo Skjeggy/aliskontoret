@@ -10,8 +10,10 @@ slides: ''
 summary: Helsedirektoratet oppretter 5 regionale ALIS kontor i 2020.
 tags: []
 title: Lansering av ALIS-kontor Sør
-image:
-  caption: 'Hentet fra: www.dagensmedisin.no'
+
+header:
+  image: https://unsplash.com/photos/g6e641CiHFQ
+  caption: Hentet fra: https://unsplash.com/photos/g6e641CiHFQ
   focal_point: ''
   preview_only: false
 
