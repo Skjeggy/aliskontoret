@@ -34,6 +34,6 @@ social:
 
 highlight_name: false
 
-
+role: Prosjektleder
 
 ---
