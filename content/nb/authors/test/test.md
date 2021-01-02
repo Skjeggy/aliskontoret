@@ -9,6 +9,10 @@ superuser: false
 user_groups:
 - ALIS-Vest
 
+organizations:
+- name: 
+  url: https://www.alis-nord.no/?lang=no_NO
+
 bio: Spesialist i allmennmedisin, master i folkehelsevitenskap og prosjektleder for ALIS-Nord
 
 interests:
@@ -22,4 +26,14 @@ education:
   - course: Cand. Med.
     institution: Universitetet i Oslo
     year: 1981
+
+social:
+- icon: envelope
+  icon_pack: fas
+  link: 'mailto:svein.ragnar.steinert@bodo.kommune.no'
+
+highlight_name: false
+
+
+
 ---
