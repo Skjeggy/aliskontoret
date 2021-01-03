@@ -10,7 +10,7 @@ abstract:
 date: 2020-09-03T14:00:00+00:00
 date_end: 2030-09-03T15:00:00Z
 all_day: false
-authors: [svein-steinert]
+authors: [Svein Steinert]
 tags: []
 featured: false
 image:
