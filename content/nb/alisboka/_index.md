@@ -1,5 +1,5 @@
 ---
-title: ALIS-boka
+title: ALIS-Boka
 type: book  # Do not modify.
 
 background:
