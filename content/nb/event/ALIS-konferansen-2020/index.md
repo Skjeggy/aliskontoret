@@ -7,10 +7,9 @@ location: Webinar
 
 summary: I lys av den pågående smittesituasjonen i landet vårt har vi i ALIS vest og ALIS Nord i samråd med Helsedirektoratet kommet til at det ikke er forsvarlig å gjennomføre en fysisk konferanse slik den har vært planlagt. Det byr på for mye risiko å samle såpass mye helsepersonell og helseledere i samme lokale – et smitteutbrudd ville være svært uheldig.
 abstract: 
-date: 2021-03-07T14:00:00+00:00
-date_end: 2030-06-01T15:00:00Z
+date: 2020-09-03T14:00:00+00:00
+date_end: 2030-09-03T15:00:00Z
 all_day: false
-publishDate: 2020-12-20T00:00:00+00:00
 authors: [svein-steinert]
 tags: []
 featured: false

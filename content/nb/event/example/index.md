@@ -29,6 +29,7 @@ url_video: ''
 slides: 
 projects: 
 
+active: false
 ---
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellusac
