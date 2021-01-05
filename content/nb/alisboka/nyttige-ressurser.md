@@ -61,7 +61,7 @@ Allmennlegeforeningen er en yrkesforening for allmennleger i Den norske legefore
 
 ## Konverteringsveileder fra gammel til ny ordning
 
-Ved ALIS-kontor Nord har man laget en «infobrosjyre»/veiledning for prosessen med å konvertere ALIS fra gammel til ny ordning. Målet er at den skal være relativt kort og gi enkel og oversiktlig informasjon om konverterings prosessen fra gammel til ny ordning. Veilederen finner du [her]()
+Ved ALIS-kontor Nord har man laget en «infobrosjyre»/veiledning for prosessen med å konvertere ALIS fra gammel til ny ordning. Målet er at den skal være relativt kort og gi enkel og oversiktlig informasjon om konverterings prosessen fra gammel til ny ordning. Veilederen finner du [her](https://aliskontoret.netlify.app/pdf/konvertering.pdf)
 
 ---
 
