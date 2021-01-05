@@ -16,6 +16,14 @@ advanced:
   css_style:
   css_class:
 
+cta:
+  url: 'https://www.facebook.com/ALISNord'
+  label: Get Started
+  icon_pack: fab
+  icon: facebook
+cta_alt:
+  url: 'https://www.facebook.com/ALISNord'
+  label: View Documentation
 ---
 
 ALIS-kontorene (ALIS står for Allmennlege i spesialisering) er et statsstøttet prosjekt som tilrettelegger for utdanningsstillinger i allmennmedisin i hele landet. 
@@ -26,3 +34,4 @@ Det finnes 5 kontor og de har følgende plassering:
 - **Hamar** (ALIS-kontor Øst)
 - **Trondheim** (ALIS-kontor Midt)
 - **Bodø** (ALIS-kontor Nord)
+
