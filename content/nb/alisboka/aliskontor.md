@@ -22,4 +22,4 @@ ALIS-vest har også mye interessant [følgeforskning](https://www.bergen.kommune
 Linken til deres hjemmeside finner du [her](https://www.alis-nord.no/?lang=no_NO). De har også en egen [facebookside](https://www.facebook.com/ALISNord/?view_public_for=107949851038117)
 
 
-{{< gdocs src="https://docs.google.com/presentation/d/1i33duujp3nJ6IycqU4VMrOxgEm4k855L" >}}
+{{< gslides src="https://docs.google.com/presentation/d/1i33duujp3nJ6IycqU4VMrOxgEm4k855L" >}}
