@@ -52,11 +52,12 @@ ALIS-avtaler kan for eksempel inneholde avtale om mer veiledning enn kravet i fo
 
 
 ALIS-kontorene skal: 
-- Rådgi kommunene om rekrutteringstiltak som kan inngå i ALIS-avtaler  ∙ Bistå med maler for ALIS-avtaler 
+- Rådgi kommunene om rekrutteringstiltak som kan inngå i ALIS-avtaler  
+- Bistå med maler for ALIS-avtaler 
 - Innhente og formidle erfaringer med de ulike tiltakene 
 
 
-Selve avtaleinngåelsen og de juridiske forpliktelsene tilknyttet avtalene er den enkelte  kommunes ansvar.  
+Selve avtaleinngåelsen og de juridiske forpliktelsene tilknyttet avtalene er den enkelte kommunes ansvar.  
 
 
 ### 2) Utdanningsplaner 
@@ -64,7 +65,7 @@ Selve avtaleinngåelsen og de juridiske forpliktelsene tilknyttet avtalene er de
 ALIS-kontorene skal gi støtte og rådgivning til kommunene som registrerte utdannings virksomheter om planlegging, tilrettelegging og gjennomføring av spesialistutdanningen i  allmennmedisin, jfr. Helsedirektoratets anbefalte utdanningsplan i allmennmedisin. 
 
 
-ALIS-kontorene skal ikke overta kommunenes oppgaver, men bidra med koordinering og  rådgivning på tvers av kommunene og i den utstrekning kapasiteten tillater.  
+ALIS-kontorene skal ikke overta kommunenes oppgaver, men bidra med koordinering og rådgivning på tvers av kommunene og i den utstrekning kapasiteten tillater.  
 
 
 Dette innebærer: 
@@ -72,21 +73,21 @@ Dette innebærer:
 
 **Bistå i arbeidet med helhetlig utdanningsløp (læringsarenaer)** 
 - Etablere samarbeid mellom kommunene 
-- Etablere samarbeid med helseforetak/sykehus i egen region om utdanningsstillinger  for LIS i allmennmedisin inkl. å bistå i utarbeidelse av avtaler mellom kommuner og  mellom kommuner og foretak.  
+- Etablere samarbeid med helseforetak/sykehus i egen region om utdanningsstillinger for LIS i allmennmedisin inkl. å bistå i utarbeidelse av avtaler mellom kommuner og  mellom kommuner og foretak.  
 
 
 **Bistå kommuner med å skaffe kvalifiserte veiledere** 
 - Skaffe oversikt over tilgjengelig veilederkapasitet og formidle dette ved behov, ev.  opprette en veilederpool. 
-- Bistå ved utdanning/kvalifisering av veiledere for eksempel ved formidling av  aktuelle, eksisterende tilbud og/eller ved å gjennomføre egne veiledersamlinger. 
+- Bistå ved utdanning/kvalifisering av veiledere for eksempel ved formidling av aktuelle, eksisterende tilbud og/eller ved å gjennomføre egne veiledersamlinger. 
 
 
 **Bistå kommunene med regionalt/nasjonalt å utvikle, gjennomføre og koordinere  læringsaktiviteter** 
-- Utvikle maler for og rådgi om gjennomføring av læringsaktiviteter for felles  kompetansemål (FKM) og for kliniske læringsmål utover kurs som arrangeres i regi av  Legeforeningen. 
+- Utvikle maler for og rådgi om gjennomføring av læringsaktiviteter for felles kompetansemål (FKM) og for kliniske læringsmål utover kurs som arrangeres i regi av  Legeforeningen. 
 
 
 ### 3) Nasjonal utdanning 
 
-Kontorene skal samarbeide seg imellom for å dele erfaringer, sikre nasjonal lik utdanning på  tvers av regioner og unngå dobbeltarbeid.  
+Kontorene skal samarbeide seg imellom for å dele erfaringer, sikre nasjonal lik utdanning på tvers av regioner og unngå dobbeltarbeid.  
 
 
 Kontorene bytter på å ha en nasjonal koordinerende funksjon/rolle, med en funksjonstid på 2 år.  
