@@ -18,12 +18,12 @@ advanced:
 
 cta:
   url: 'https://www.facebook.com/ALISNord'
-  label: Get Started
+  label: Se vår facebookgruppe! 
   icon_pack: fab
   icon: facebook
 cta_alt:
-  url: 'https://www.facebook.com/ALISNord'
-  label: View Documentation
+  url: 'https://aliskontoret.netlify.app/alisboka/'
+  label: Sjekk ut ALIS-Boka vår!
 ---
 
 ALIS-kontorene (ALIS står for Allmennlege i spesialisering) er et statsstøttet prosjekt som tilrettelegger for utdanningsstillinger i allmennmedisin i hele landet. 
