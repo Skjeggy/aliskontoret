@@ -8,6 +8,8 @@ date: "2019-05-05T00:00:00+01:00"
 weight: 1
 ---
 
+## Innledning
+
 Gjennom Forskrift om kompetansekrav for lege (kompetanseforskriften) og spesialist forskriften har kommunene fått styrket sitt ansvar for spesialistutdanning av leger.  Kompetanseforskriften setter blant annet krav til at alle leger med kliniske oppgaver i kommunen skal være spesialister eller under spesialisering i allmennmedisin (kompetanseforskriften §3).
 
 
