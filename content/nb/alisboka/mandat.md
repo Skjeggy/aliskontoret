@@ -14,8 +14,7 @@ Gjennom Forskrift om kompetansekrav for lege (kompetanseforskriften) og spesiali
 Spesialistforskriften regulerer gjennomføringen av utdanningen. Alle kommuner med leger i  spesialiseringens del 2 og 3 skal være registrerte utdanningsvirksomheter og tilby helhetlig  utdanningsløp og veiledning (spesialistforskriften § 19).
 
 
-I [Prop. 1 S (2019-2920)](https://www.regjeringen.no/no/dokumenter/prop.-1-s-20192020/id2671560/?ch=1) for Helse- og omsorgsdepartementet ligger det inne midler til  tilskuddsordning for fastleger som er under spesialisering i allmennmedisin i kommuner med  rekrutteringsutfordringer. Tilskuddsordningen forutsetter en kommunal egenandel.  Tilskuddet er i utgangspunktet for næringsdrivende fastleger. ALIS-avtaler er avtaler mellom  kommune og leger i spesialisering i allmennmedisin om særskilte rekrutteringstiltak som går  ut over og kommer i tillegg til plikter og rettigheter som følger av spesialistforskriften. I2019  er det gitt tilskudd til ALIS-avtaler for både ansate og næringsdrivende fastleger.  
-Det gis også tilskudd til kommuner for å kompensere for kostnader til veiledning av lege i spesialisering i allmennmedisin (ALIS). Dette tilskuddet gis også ved veiledning av kommunalt  ansatte leger (fastlønn). 
+I [Prop. 1 S (2019-2920)](https://www.regjeringen.no/no/dokumenter/prop.-1-s-20192020/id2671560/?ch=1) for Helse- og omsorgsdepartementet ligger det inne midler til  tilskuddsordning for fastleger som er under spesialisering i allmennmedisin i kommuner med  rekrutteringsutfordringer. Tilskuddsordningen forutsetter en kommunal egenandel. Tilskuddet er i utgangspunktet for næringsdrivende fastleger. ALIS-avtaler er avtaler mellom  kommune og leger i spesialisering i allmennmedisin om særskilte rekrutteringstiltak som går  ut over og kommer i tillegg til plikter og rettigheter som følger av spesialistforskriften. I2019  er det gitt tilskudd til ALIS-avtaler for både ansate og næringsdrivende fastleger. Det gis også tilskudd til kommuner for å kompensere for kostnader til veiledning av lege i spesialisering i allmennmedisin (ALIS). Dette tilskuddet gis også ved veiledning av kommunalt  ansatte leger (fastlønn). 
 
 
 ## Overordnet mål 
@@ -23,7 +22,7 @@ Det gis også tilskudd til kommuner for å kompensere for kostnader til veiledni
 Gjennom å bistå kommunene skal ALIS-kontorene bidra til rekruttering og tilrettelegging for  spesialisering og til trygghet for legen gjennom spesialiseringsløpet. Målet er å redusere  terskelen for å starte i spesialisering i allmennmedisin og/eller å gå inn i allmennmedisin virksomhet. 
 
 
-Ny spesialistutdanning er i seg selv et rekrutteringstiltak. Alle kommuner med ALIS skal  kunne tilby forutsigbare utdanningsløp med veiledning, supervisjon og læringsaktiviteter.  ALIS-kontorene skal rådgi og bistå kommunene i planlegging, etablering og oppfølging av  utdanningen.  
+Ny spesialistutdanning er i seg selv et rekrutteringstiltak. Alle kommuner med ALIS skal kunne tilby forutsigbare utdanningsløp med veiledning, supervisjon og læringsaktiviteter.  ALIS-kontorene skal rådgi og bistå kommunene i planlegging, etablering og oppfølging av utdanningen.  
 
 
 For kommuner med rekrutteringsutfordringer kan det være behov for å tilby mer tilrette legging enn det legen har krav på etter spesialistforskriften og kompetanseforskriften. ALIS kontorene skal bistå og rådgi kommunene i arbeidet med ALIS-avtaler. Med ALIS-avtale  menes avtale mellom kommune og ALIS om særskilte rekrutteringstiltak, som går utover, og  kommer i tillegg til, plikter og rettigheter som følger av spesialistforskriften. ALIS kan være i  privat næringsdrift eller ansatt i kommunen. 
