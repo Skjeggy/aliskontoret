@@ -14,7 +14,7 @@ weight: 5
 - [Forskrift om fastlegeordning i kommunene (**Fastlegeforskriften**)](https://lovdata.no/dokument/SF/forskrift/2012-08-29-842)
 - [Lov om kommunale helse- og omsorgstjenester m.m. (**Helse- og omsorgstjenesteloven**)](https://lovdata.no/dokument/NL/lov/2011-06-24-30)
 - [Forskrift om kompetansekrav for leger i den kommunale helse- og omsorgstjenesten](https://lovdata.no/dokument/SF/forskrift/2017-02-17-192)
-- [Forskrift om spesialistutdanning og spesialistgodkjenning for leger og tannleger (Spesialistforskriften)](https://lovdata.no/dokument/SF/forskrift/2016-12-08-1482)
+- [Forskrift om spesialistutdanning og spesialistgodkjenning for leger og tannleger (**Spesialistforskriften**)](https://lovdata.no/dokument/SF/forskrift/2016-12-08-1482)
 
 
 ## Legeavtaler
