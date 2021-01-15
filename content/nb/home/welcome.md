@@ -17,18 +17,20 @@ advanced:
   css_class:
 
 cta:
-  url: 'https://www.facebook.com/ALISNord'
-  label: Se vår facebookgruppe! 
-  icon_pack: fab
-  icon: facebook
+  url: 'https://www.ks.no/fagomrader/helse-og-omsorg/legetjenester'
+  label: Se KS sine nettsider her! 
+  # icon_pack: fab
+  # icon: facebook
 ---
+ 
+ALIS-kontorene (Allmennlege i spesialisering) har ifølge mandatet fra Helsedirektoratet som overordnet mål å bistå kommunene ved å bidra til rekruttering og tilrettelegging for spesialisering i allmennmedisin. ALIS-kontorene skal rådgi og bistå kommunene i planlegging, etablering og oppfølging av utdanningen. Det finnes 5 kontor, lokalisert i hver sin region av landet. 
 
-ALIS-kontorene (ALIS står for Allmennlege i spesialisering) er et statsstøttet prosjekt som tilrettelegger for utdanningsstillinger i allmennmedisin i hele landet. 
+Denne nettsiden er under oppbygging og det er derfor lurt å orientere seg på KS sine nettsider foreløpig.
 
-Det finnes 5 kontor og de har følgende plassering: 
+<!-- Det finnes 5 kontor og de har følgende plassering: 
 - **Kristiansand** (ALIS-kontor Sør)
 - **Bergen** (ALIS-kontor Vest)
 - **Hamar** (ALIS-kontor Øst)
 - **Trondheim** (ALIS-kontor Midt)
-- **Bodø** (ALIS-kontor Nord)
+- **Bodø** (ALIS-kontor Nord) -->
 
