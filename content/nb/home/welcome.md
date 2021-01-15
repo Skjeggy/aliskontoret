@@ -23,7 +23,7 @@ cta:
   # icon: facebook
 ---
  
-ALIS-kontorene (Allmennlege i spesialisering) har ifølge mandatet fra Helsedirektoratet som overordnet mål å bistå kommunene ved å bidra til rekruttering og tilrettelegging for spesialisering i allmennmedisin. ALIS-kontorene skal rådgi og bistå kommunene i planlegging, etablering og oppfølging av utdanningen. Det finnes 5 kontor, lokalisert i hver sin region av landet. 
+ALIS-kontorene (Allmennlege i spesialisering) har ifølge [mandatet](https://aliskontoret.netlify.app/alisboka/mandat/) fra Helsedirektoratet som overordnet mål å bistå kommunene ved å bidra til rekruttering og tilrettelegging for spesialisering i allmennmedisin. ALIS-kontorene skal rådgi og bistå kommunene i planlegging, etablering og oppfølging av utdanningen. Det finnes 5 kontor, lokalisert i hver sin region av landet. 
 
 Denne nettsiden er under oppbygging og det er derfor lurt å orientere seg på KS sine nettsider foreløpig.
 
