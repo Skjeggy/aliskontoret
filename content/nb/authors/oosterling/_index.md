@@ -6,11 +6,11 @@ title: Frode Oosterling
 superuser: false
 
 # Role/position
-role: Rådgivende lege
+role: Veileder i allmennmedisin
 
 # Organizations/Affiliations
 organizations:
-- name: Hamar Kommune
+- name: Samfunnsmedisinsk enhet Hamar kommune
   url: https://www.hamar.kommune.no/
 
 # Short bio (displayed in user profile at end of posts)
@@ -41,7 +41,7 @@ interests:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:'
+  link: 'mailto:frode.oosterling@hamar.kommune.no'
 
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
@@ -58,7 +58,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- ALIS-Øst
+- ALIS-kontor Øst
 ---
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
