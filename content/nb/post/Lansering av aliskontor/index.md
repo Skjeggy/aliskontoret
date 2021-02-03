@@ -12,7 +12,7 @@ tags: []
 title: Lansering av ALIS-kontor Sør
 
 image:
-  caption: 'test'
+  caption: ''
   focal_point: right
   preview_only: false
 

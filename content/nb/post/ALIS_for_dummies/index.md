@@ -12,7 +12,7 @@ tags: []
 title: ALIS for dummies
 
 image:
-  caption: 'test'
+  caption: '[unsplashed](https://unsplash.com/photos/qDY9ahp0Mto)'
   focal_point: right
   preview_only: false
 
@@ -45,5 +45,6 @@ norske fastlegeordningen, alle involverte bør vite hva den inneholder.
 
 
 - [Rundskriv med hele spesialistforskriften](https://www.regjeringen.no/contentassets/296adc05dbee4ae1a1e015cbea31701e/revidert-rundskriv-spesialistforskriften-002.pdf), oppdatert 24.09.20, for den som vil gå i dybden. Her finner man svar på mye man lurer på, bl.a. om krav til innholdet i tjenesten.
+
 
 Se [ALISboka](../../alisboka/_index.md) for mer. 
