@@ -9,7 +9,7 @@ abstract: ''
 slides: ''
 summary: En guide til å starte som ALIS
 tags: []
-title: ALIS FOR DUMMIES
+title: ALIS for dummies
 
 image:
   caption: 'test'
@@ -34,26 +34,16 @@ Da er du i gang!
 
 ### Andre nyttige lenker for alle som er engasjert i ALIS-rekruttering og –utdanning:
 
-[Hjemmesiden til ALIS-Nord-prosjektet](https://www.alis-nord.no/?lang=no_NO), som har lang ALIS-erfaring. Inneholder per januar 2021 bl.a. nyttige artikler om hvordan kommunene registrerer seg som utdanningsvirksomhet, og hvordan ALIS konverterer fra gammel til ny utdanningsordning, noe vi ønsker. Det jobbes med en felles hjemmeside for alle ALIS-kontorene i landet.
+- [Hjemmesiden til ALIS-Nord-prosjektet](https://www.alis-nord.no/?lang=no_NO), som har lang ALIS-erfaring. Inneholder per januar 2021 bl.a. nyttige artikler om hvordan kommunene registrerer seg som utdanningsvirksomhet, og hvordan ALIS konverterer fra gammel til ny utdanningsordning, noe vi ønsker. Det jobbes med en felles hjemmeside for alle ALIS-kontorene i landet.
 
 
-[Handlingsplanen](https://www.regjeringen.no/contentassets/96f6581333ee48559cdabf23c8772294/handlingsplan-for-allmennleger.pdf) - Myndighetenes respons på fastlegekrisa. Det vil vise seg om planen kan redde den
+- [Handlingsplanen](https://www.regjeringen.no/contentassets/96f6581333ee48559cdabf23c8772294/handlingsplan-for-allmennleger.pdf) - Myndighetenes respons på fastlegekrisa. Det vil vise seg om planen kan redde den
 norske fastlegeordningen, alle involverte bør vite hva den inneholder.
-https://www.helsedirektoratet.no/tilskudd/alis-avtaler-for-naeringsdrivende-fastleger
-Tilskuddsordning til næringsdrivende ALIS i kommuner som sliter med rekruttering og
-stabilitet i fastlegeordningen. Dvs. de fleste norske kommuner. Ordningen er for lite
-brukt, kanskje fordi søknadsprosessen er komplisert. ALIS-kontorene jobber med å få
-forenklet prosessen, og vi kan hjelpe kommunene med søknader. Kommunene kan
-søke om dette tilskuddet før de er registrert utdanningsvirksomhet.
-https://www.regjeringen.no/contentassets/296adc05dbee4ae1a1e015cbea31701e/re
-vidert-rundskriv-spesialistforskriften-002.pdf
-Rundskriv med hele spesialistforskriften, oppdatert 24.09.20, for den som vil gå i
-dybden. Her finner man svar på mye man lurer på, bl.a. om krav til innholdet i
-tjenesten.
-Hamar, 28.01.2021
-Frode Oosterling
-Veileder i allmennmedisin
-ALIS-kontor Øst
-Samfunnsmedisinsk enhet Hamar kommune
-Tlf. 92051609
-frode.oosterling@hamar.kommune.no
+
+
+- [ALIS-avtaler for selvstendig næringsdrivende fastleger](https://www.helsedirektoratet.no/tilskudd/alis-avtaler-for-naeringsdrivende-fastleger) - Tilskuddsordning til næringsdrivende ALIS i kommuner som sliter med rekruttering og stabilitet i fastlegeordningen. Dvs. de fleste norske kommuner. Ordningen er for lite brukt, kanskje fordi søknadsprosessen er komplisert. ALIS-kontorene jobber med å få forenklet prosessen, og vi kan hjelpe kommunene med søknader. Kommunene kan søke om dette tilskuddet før de er registrert utdanningsvirksomhet.
+
+
+- [Rundskriv med hele spesialistforskriften](https://www.regjeringen.no/contentassets/296adc05dbee4ae1a1e015cbea31701e/revidert-rundskriv-spesialistforskriften-002.pdf), oppdatert 24.09.20, for den som vil gå i dybden. Her finner man svar på mye man lurer på, bl.a. om krav til innholdet i tjenesten.
+
+Se [ALISboka](../../alisboka/_index.md) for mer. 
