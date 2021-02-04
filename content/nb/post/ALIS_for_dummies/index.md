@@ -20,7 +20,7 @@ image:
 
 Som ung og entusiastisk lege har du skjønt at det er i primærmedisinen du virkelig får brukt kunnskapene og evnene dine til fulle. Du har fått jobb i en av Norges kommuner, og da må du bli ALIS (allmennlege i spesialisering). Dette er et forslag fra ALIS-kontor Øst om hvordan du skal gå fram:
 
-Først går du inn på [allmennmedisin på helsedirektoratets sider](https://www.helsedirektoratet.no/tema/autorisasjon-og-spesialistutdanning/spesialistutdanning-for-leger/allmennmedisin)
+Først går du inn på [allmennmedisin på helsedirektoratets sider](https://www.helsedirektoratet.no/tema/autorisasjon-og-spesialistutdanning/spesialistutdanning-for-leger/allmennmedisin).
 
 Her vil du finne en tilsynelatende endeløs rekke av læringsmål du skal oppnå, og et regneark med foreslått utdanningsplan så komplisert at det gir flashback til Krebs’ syklus. Men fortvil ikke, du har fem år på deg, og disse dokumentene vil vise seg å bli nyttige. Full av pågangsmot kontakter du nå den i kommunen som har ansvaret for legetjenesten. Det kan være kommuneoverlegen, men trenger ikke være det. Start med den som har underskrevet kontrakten din med kommunen. Sammen sjekker dere om kommunen er [«registrert utdanningsvirksomhet»](https://www.helsedirektoratet.no/tema/autorisasjon-og-spesialistutdanning/spesialistutdanning-for-leger/artikler/registrering-og-godkjenning-av-utdanningsvirksomheter).
 
