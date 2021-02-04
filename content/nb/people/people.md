@@ -16,11 +16,11 @@ content:
   # Choose which groups/teams of users to display.
   #   Edit `user_groups` in each user's profile to add them to one or more of these groups.
   user_groups:
-  - ALIS-Sør
-  - ALIS-Midt
-  - ALIS-Vest
-  - ALIS-Nord
-  - ALIS-Øst
+  - ALIS-kontor Sør
+  - ALIS-kontor Midt
+  - ALIS-kontor Vest
+  - ALIS-kontor Nord
+  - ALIS-kontor Øst
 design:
   show_interests: false
   show_role: true

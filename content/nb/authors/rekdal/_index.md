@@ -60,7 +60,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- ALIS-Sør
+- ALIS-kontor Sør
 ---
 
 Sondre Sverd Rekdal er en allmennlege med master i helse- og sosialinformatikk som for øyeblikket er i spesialisering i allmennmedisin i Kristiansand Kommune.
